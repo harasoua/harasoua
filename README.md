@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 
 
 <!--
 **harasoua/harasoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a passionate Canadian networker, I love all things related to IT networking! 
+
+If you ask me anything networking related, I'll most likely ramble on for hours about my networking journey, networking or routing protocols, and even some cybersecurity!
+
+My public repos are currently fun personal projects or configuration templates for networking that I've done over the years.
